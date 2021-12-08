@@ -35,7 +35,7 @@ const Auth = () => {
       <div className='auth-container'>
         <form className='auth-form' onSubmit={e => onSubmit(e)}>
           <div className='auth-title'>
-            Alpaca Chat
+            😄
           </div>
 
           <div className='input-container'>
